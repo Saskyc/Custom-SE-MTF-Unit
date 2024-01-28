@@ -15,6 +15,10 @@ This plugin was created for people that want to use custom teams for their serve
 
 * SAVE {CASSIE_Messeage} The Alpha-1 has landed in the facility lockdown code 5 initiated. // The Custom Cassie messeage you want to send if {Use_Cassie} is Enabled.
 
+* {Hint_Time} The amount of time the hint for respawned players will be displayed
+
+* {Hint_Messeage} What hint messeage to display
+
 * SAVE {9x19_Amount_Ammo} 1 // 9x19 ammo that the team will have. The guns 9x19 ammo is used for: **Com15, Com18, FSP9, Crossovec, Com45**
 * SAVE {556x45_Amount_Ammo} 1 // 556x45 ammo that the team will have. The guns 556x45 ammo is used for: **E11SR, FRMG0**
 * SAVE {762x39_Amount_Ammo} 1 // 762x39 ammo that the team will have. The guns 762x39 ammo is used for: **AK ,Logicer, A7**
